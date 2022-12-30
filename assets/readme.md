@@ -1,0 +1,1 @@
+Colocar a pasta libraries substituindo os conteúdos da pasta library do seu Arduino IDE
